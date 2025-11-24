@@ -1,18 +1,17 @@
-body {
-    background-color: rgb(238, 236, 236);
-}
 main{
-    color: rgb(61, 55, 55);
+    color: rgb(255, 255, 255);
 }
-
-p,li{
+body{
+    background-color: rgb(200, 162, 200);
+    width: 100%;
+}
+p,li{   
     font-size: 20px;
 }
 
-[target] {
-    color: cornflowerblue;
-    text-decoration: none;
-}
 [target="_blank"]{
     color: red;
+}
+nav{
+    background-color: rgb(66, 2, 66);
 }
